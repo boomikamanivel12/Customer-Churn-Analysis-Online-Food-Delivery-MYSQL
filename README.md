@@ -1,2 +1,61 @@
-# Customer-Churn-Analysis-Online-Food-Delivery-MYSQL
+ Customer-Churn-Analysis-Online-Food-Delivery-MYSQL
 Customer Churn Analysis of an Online Food Delivery Platform using MySQL. Designed a 3NF relational database and performed SQL-based analysis to identify customer behavior and churn patterns.
+
+Project Overview
+This project focuses on analyzing customer churn in an online food delivery platform using MySQL. A normalized relational database was designed to manage customers, restaurants, orders, deliveries, payments, feedback, and churn information. SQL queries were used to analyze customer behavior, identify churn patterns, and generate business insights.
+
+Objectives
+- Design a normalized relational database (3NF).
+- Analyze customer churn using SQL.
+- Identify customer ordering patterns.
+- Evaluate delivery and restaurant performance.
+- Generate business insights for customer retention.
+
+Platform
+- Online Food Delivery Platform (Generic Business Scenario)
+
+Technologies Used
+- MySQL
+- MySQL Workbench
+- GitHub
+
+ Techniques Used
+- ER Diagram Design
+- Database Normalization (3NF)
+- Primary Key & Foreign Key Relationships
+- DDL (CREATE TABLE)
+- DML (INSERT)
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- INNER JOIN
+- LEFT JOIN
+- Aggregate Functions
+- Subqueries
+- CASE Statements
+- Date Functions
+
+Database Tables
+- Customers
+- Restaurants
+- Cuisine
+- Menu_Items
+- Payments
+- Order_Status
+- Orders
+- Order_Details
+- Delivery_Partners
+- Deliveries
+- Customer_Feedback
+- Offers
+- Order_Offers
+- Customer_Churn
+- Customer_Support
+
+Project Outcome
+The project demonstrates practical skills in MySQL database design, normalization, SQL querying, and data analysis by identifying customer churn trends and providing actionable business insights.
+
+## Author
+**Boomika Manivel**
